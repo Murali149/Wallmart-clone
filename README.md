@@ -96,7 +96,7 @@ Footer
 
 
 ## 🔗 Deployed Link
-Deployed link:-> [Click on me to navigate deployed site](https://project-himalaya-siteclone-dluwyswjy-murali149.vercel.app)
+Deployed link:-> [Click on me to navigate deployed site](https://sarath-194.github.io/walmart/body.html)
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://myfinalportfolio-dtxhms9r1-murali149.vercel.app)
